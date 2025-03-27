@@ -26,13 +26,13 @@ Routineo is a comprehensive application designed to simplify classroom managemen
   - Similarly, for students who are ill or facing a family emergency, the HOD records the relevant dates to ensure that attendance calculations reflect these exceptions.
 
 ---
-# StudentDashboard
+# Student Dashboard
 
-StudentDashboard is a comprehensive web application designed to streamline academic information for students. It offers a one-stop interface for daily schedules, attendance tracking, class reports, syllabus management, class routines, and faculty information – all integrated into a modern, responsive dashboard.
+ Student Dashboard is designed to streamline academic information for students. It offers a one-stop interface for daily schedules, attendance tracking, class reports, syllabus management, class routines, and faculty information – all integrated into a modern, responsive dashboard.
 
 ## Description
 
-StudentDashboard aims to simplify student life by providing real-time updates and detailed insights into daily routines, attendance, and academic schedules. Whether you need to check your class timings, view attendance reports, or review semester syllabus and routines, StudentDashboard brings all relevant information together on one intuitive platform.
+Student Dashboard aims to simplify student life by providing real-time updates and detailed insights into daily routines, attendance, and academic schedules. Whether you need to check your class timings, view attendance reports, or review semester syllabus and routines, StudentDashboard brings all relevant information together on one intuitive platform.
 
 ## Features
 
