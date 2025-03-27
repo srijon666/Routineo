@@ -26,6 +26,52 @@ Routineo is a comprehensive application designed to simplify classroom managemen
   - Similarly, for students who are ill or facing a family emergency, the HOD records the relevant dates to ensure that attendance calculations reflect these exceptions.
 
 ---
+# StudentDashboard
+
+StudentDashboard is a comprehensive web application designed to streamline academic information for students. It offers a one-stop interface for daily schedules, attendance tracking, class reports, syllabus management, class routines, and faculty information – all integrated into a modern, responsive dashboard.
+
+## Description
+
+StudentDashboard aims to simplify student life by providing real-time updates and detailed insights into daily routines, attendance, and academic schedules. Whether you need to check your class timings, view attendance reports, or review semester syllabus and routines, StudentDashboard brings all relevant information together on one intuitive platform.
+
+## Features
+
+- **Dashboard Navigation:**  
+  Easily switch between sections such as Home, Class Report, Semester Syllabus, Class Routine, Faculty Members, and About Us using a clear and intuitive menu.
+
+- **Real-Time Updates:**  
+  The Home page displays a live clock and today’s schedule with smooth, animated transitions to keep you informed at a glance.
+
+- **Attendance Reports:**  
+  Access both daily and monthly attendance reports. Use interactive filters to narrow down results by date or month for detailed insights.
+
+- **Class Routine Management:**  
+  Import routine files (CSV, Excel, Word) to automatically update class schedules. Edit and save changes directly within the dashboard for efficient routine management.
+
+- **Faculty & About Sections:**  
+  Explore comprehensive profiles of faculty members and learn more about the team behind StudentDashboard.
+
+## Code Overview
+
+- **Home Component:**  
+  Implements the real-time clock, displays the daily schedule, and provides a basic attendance summary. Smooth animations are powered by Framer Motion.
+
+- **Class Report Components:**  
+  Deliver daily and monthly attendance reports with filtering options and dynamic data display in interactive tables.
+
+- **Semester Syllabus:**  
+  Presents syllabus details for each semester in a responsive table format, making academic information easily accessible.
+
+- **Class Routine Module:**  
+  Manages class schedules with robust file parsing using Papa Parse, XLSX, and Mammoth. It also supports interactive editing of routine details.
+
+- **Faculty Members & About Us:**  
+  Showcase detailed profiles and information about the project team, ensuring that users can get to know the experts behind the application.
+
+- **Libraries & Tools:**  
+  Built using React.js, enhanced with Framer Motion for animations, and equipped with Papa Parse, XLSX, and Mammoth for seamless file handling.
+
+---
 
 ## Additional Features
 
